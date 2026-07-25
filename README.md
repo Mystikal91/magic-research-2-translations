@@ -11,7 +11,7 @@ This repository is meant to be used as a way to organize crowd-translations of t
 
 I've gathered the available translations file on the web for this game. They will be used as a starting point for this project:
 * English (United States): Done (N/A, original language)
-* Russian: [galactic-mind](https://github.com/galactic-mind)
+* Russian: FArgus (Found on Discord)
 * Chinese (Simplified): [@JingruiChen](https://github.com/chen-assert)
 
 This readme is mostly copied from the one made by mcolotto
@@ -62,3 +62,7 @@ There is a channel in the official [Magic Research Discord server](https://disco
 ## Questions, Suggestions, Etc.
 
 Note from developer: It is my first time trying to build a translatable game from scratch, so chances are there are many, many things we could improve about this, especially in terms of process. There are also likely other elements in the app that will need attention for some locales: things like RTL, number formatting, etc. I am open to suggestions on how best to work. The best way to reach me is likely through Discord as mentioned above, in "How to Contribute".
+
+## AI Usage
+
+Some translation have been made using Gemini/ChatGPT. The Weblate project uses DeepL for automatic suggestion
