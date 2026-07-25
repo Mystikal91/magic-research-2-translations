@@ -12,6 +12,7 @@ This repository is meant to be used as a way to organize crowd-translations of t
 I've gathered the available translations file on the web for this game. They will be used as a starting point for this project:
 * English (United States): Done (N/A, original language)
 * Russian: FArgus (Found on Discord)
+* Chinese (Traditional): pierre654852 (Found on Discord)
 * Chinese (Simplified): [@JingruiChen](https://github.com/chen-assert)
 
 This readme is mostly copied from the one made by mcolotto
