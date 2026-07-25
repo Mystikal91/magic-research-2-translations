@@ -1,24 +1,30 @@
+
 # Magic Research 2 Public Translation Project
 
-**Note: This has moved to Localizor: [https://www.localizor.com/magic-research-2/](https://www.localizor.com/magic-research-2/) - please contribute there instead! The information here might be out of date.**
+**It seems that mcolotto’s [original project](https://github.com/mcolotto/magic-research-2-translations) is no longer active. This is my attempt to revive it and to compile the existing translations available for Magic Research 2**
 
 --------------
-
-# Legacy Documentation
 
 This repository is meant to be used as a way to organize crowd-translations of the game Magic Research 2. Please read on to find out how to contribute!
 
 ## Translation Status And Credits
 
+I've gathered the available translations file on the web for this game. They will be used as a starting point for this project:
 * English (United States): Done (N/A, original language)
-* Portuguese (Brazil): ch1coon (In progress)
-* Chinese (Simplified): QihangL (In progress)
+* Russian: [galactic-mind](https://github.com/galactic-mind)
+* Chinese (Simplified): [@JingruiChen](https://github.com/chen-assert)
+
+This readme is mostly copied from the one made by mcolotto
 
 ## Magic Research 2 Translation Guide
 
 This guide is intended as a way to provide a custom translation for Magic Research 2. It is meant for those who would like to translate the game.
 
 **Caution: As this is a text-only game, there is inevitably big, big spoilers for the _entire_ game inside the translations file. If you'd like to experience the game at its fullest and you're able to understand English, I suggest you complete the _full_ game first before starting to translate. Translate it at your own risk!**
+
+You can help translate this game using [this weblate project](https://weblate.mystikal.it/projects/magic-research-2/) or by contributing to this github directly. 
+
+If you don't want to use Weblate, you can follow mcolotto original guide:
 
 The process essentially is as follows:
 
