@@ -49,14 +49,13 @@ As of the time of writing, there are about 4000 strings. Some of those may requi
 
 ## How to Contribute
 
-You are free to create your own translations and distribute them on your own if you'd like. However, because translating the game is a very big task due to the sheer amount of strings, this repository also serves as a way to organize and share the load with others. Ideally we would have a proper tool to keep track what is already translated and what isn't, that would allow discussion, metadata on the keys, etc. but those can be quite expensive, so we're trying a GitHub repository first. If you'd like to contribute via this repository:
+You are free to create your own translations and distribute them on your own if you'd like. However, because translating the game is a very big task due to the sheer amount of strings, this repository also serves as a way to organize and share the load with others.
 
-1. First, contact `magic.research.game@gmail.com` with your GitHub username or email so we can add you as a collaborator in the repository. Please mention what language(s) you are interested in translating the game to, as well as any alias you would like to be known as, so you can be properly credited.
-2. If there is no translation file for your locale, please create one by copying `base-translations.json` and committing.
-3. Once that is done (or if there already was a translation file), feel free to edit the file at leisure with any tools. Editing the file directly in this repository might be the best way to start.
-4. Once the translations are finished or in a state where they can be beta-tested, feel free to mark it as completed in the list above at the top of this file, together with the version of the translations file used.
+You can help translate this game using [this weblate project](https://weblate.mystikal.it/projects/magic-research-2/). 
 
-We estimate development will be fairly quick during the first few months after release, and several strings may change or be revised. `base-translations.json` will be promptly updated likely at least one day before the release of a new game version, but at this time we don't have plans to wait for the translations to catch up. This is likely to change in the future, once development slows down.
+If you don't want to use the Weblate Project, you're free to contribute by committing to this repository directly by following this guide:
+1. If there is no translation file for your locale, please create one by copying `base-translations.json` and committing it to the folder `translations` using the [ISO-639](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes) 2 letter language format as a file name (for example `fr.json` for French). If your language have different writing system, you can add the [ISO-15924](https://en.wikipedia.org/wiki/ISO_15924) code to the file name (for example `zh-Hans.json` for Simplified Chinese). If your language have multiple version based on the country, add the [ISO 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1) code to the file name (for example `pt-BR.json` for Brazilian Portuguese)
+2. Once that is done (or if there already was a translation file), feel free to edit the file at leisure with any tools. Editing the file directly in this repository might be the best way to start. 
 
 There is a channel in the official [Magic Research Discord server](https://discord.gg/bPhGsaqR9d) called `#mr2-translations`. It can be used as a venue for discussion and collaboration if needed.
 
