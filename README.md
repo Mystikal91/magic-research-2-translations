@@ -16,6 +16,7 @@ I've gathered the available translations file on the web for this game. They wil
 * Russian: FArgus (Found on Discord)
 * Chinese (Traditional): pierre654852 (Found on Discord)
 * Chinese (Simplified): [@JingruiChen](https://github.com/chen-assert)
+* Italian: Forcy (Found on Discord)
 
 This readme is mostly copied from the one made by mcolotto
 
